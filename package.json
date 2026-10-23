@@ -1,0 +1,11 @@
+{
+    "name": "com.junya005.algorithm",
+    "version": "1.0.0",
+    "displayName": "Core Algorithm Toolkit",
+    "description": "汎用的なアルゴリズム・基底クラス群",
+    "unity": "2021.3",
+    "author": {
+        "name": "junya005",
+        "email": "junya005.65@gmail.com"
+    }
+}
